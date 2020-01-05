@@ -1,0 +1,10 @@
+C:\Users\vikas\source\repos\WeekendProjectDB\WeekendProjectDB\bin\Debug\WeekendProjectDB.dacpac
+C:\Users\vikas\source\repos\WeekendProjectDB\WeekendProjectDB\bin\Debug\WeekendProjectDB.dll
+C:\Users\vikas\source\repos\WeekendProjectDB\WeekendProjectDB\bin\Debug\WeekendProjectDB.pdb
+C:\Users\vikas\source\repos\WeekendProjectDB\WeekendProjectDB\obj\Debug\WeekendProjectDB.sqlprojAssemblyReference.cache
+C:\Users\vikas\source\repos\WeekendProjectDB\WeekendProjectDB\obj\Debug\Model.xml
+C:\Users\vikas\source\repos\WeekendProjectDB\WeekendProjectDB\obj\Debug\refactor.xml
+C:\Users\vikas\source\repos\WeekendProjectDB\WeekendProjectDB\obj\Debug\postdeploy.sql
+C:\Users\vikas\source\repos\WeekendProjectDB\WeekendProjectDB\obj\Debug\predeploy.sql
+C:\Users\vikas\source\repos\WeekendProjectDB\WeekendProjectDB\obj\Debug\WeekendProjectDB.dll
+C:\Users\vikas\source\repos\WeekendProjectDB\WeekendProjectDB\obj\Debug\WeekendProjectDB.pdb
