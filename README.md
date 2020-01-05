@@ -1,0 +1,2 @@
+# WeekendProjectDB
+Coding practice application
